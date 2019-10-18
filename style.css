@@ -1,0 +1,21 @@
+body{background: rgb(225, 230, 230);
+
+}
+
+.container{
+    background: rgb(255, 255, 255)
+}
+
+h4{ color: rgb(132, 168, 162);
+
+}
+
+.carousel-item img{
+    height: 600px
+}
+
+footer{
+    height: 100px;
+    line-height: 100px;
+}
+
